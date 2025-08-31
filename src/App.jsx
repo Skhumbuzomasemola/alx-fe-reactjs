@@ -2,11 +2,9 @@ import WelcomeMessage from './components/WelcomeMessage';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <WelcomeMessage />
     </div>
   );
 }
-
-export default App;
 
